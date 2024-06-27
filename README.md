@@ -33,6 +33,11 @@ https://social-sense-ten.vercel.app/
 - Populates real-time data into a dynamic dashboard.
 - Features a structured data-flow architecture for efficient data management and visualization.
 
+### Responsive Design
+
+- Ensures a seamless user experience across all devices and screen sizes.
+- Optimized for mobile, tablet, and desktop views.
+
 
 ## Tech Stack
 
