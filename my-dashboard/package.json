@@ -1,5 +1,5 @@
 {
-  "name": "my-dashboard",
+  "name": "social-sense_assignment",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,33 +9,27 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@nivo/bar": "^0.87.0",
-    "@nivo/core": "^0.87.0",
-    "@nivo/line": "^0.87.0",
-    "@nivo/pie": "^0.87.0",
+    "@radix-ui/react-avatar": "^1.1.0",
     "@radix-ui/react-separator": "^1.1.0",
     "@radix-ui/react-slot": "^1.1.0",
     "@radix-ui/react-tabs": "^1.1.0",
-    "@radix-ui/react-tooltip": "^1.1.1",
+    "chart.js": "^4.4.3",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.396.0",
-    "next": "^14.2.4",
-    "react": "^18.3.1",
+    "next": "14.2.4",
+    "react": "^18",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18",
-    "react-icons": "^5.2.1",
-    "recharts": "^2.12.7",
+    "styled-components": "^6.1.11",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
+    "babel-plugin-styled-components": "^2.1.4",
     "eslint": "^8",
     "eslint-config-next": "14.2.4",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1",
-    "typescript": "^5"
+    "tailwindcss": "^3.4.1"
   }
 }
