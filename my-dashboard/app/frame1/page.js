@@ -1,7 +1,6 @@
 import Preview from '@/components/Frame1/preview';
 import SideBar from '@/components/Frame1/sidebar';
 import ThemeSelector from '@/components/Frame1/themeSelector';
-import { Button } from '@/components/ui/button';
 import React from 'react'
 import Navbar from '../../components/Navbar/Navbar';
 
