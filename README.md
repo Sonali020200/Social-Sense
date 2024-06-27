@@ -1,6 +1,6 @@
 # Social Sense Assignment
 
-Social Sense Assignment is a web application designed to showcase dynamic theming and profile management features. It allows users to dynamically change the theme of the application's preview screen based on selected colors. Additionally, it includes a dashboard section where on can view the customer data.
+Social Sense Assignment is a web application designed to showcase dynamic theming feature. It allows users to dynamically change the theme of the application's preview screen based on selected colors. Additionally, it includes a dashboard section where one can view the customer data.
 
 The application is optimized for performance and responsiveness, ensuring a seamless user experience across various devices and screen sizes.
 
